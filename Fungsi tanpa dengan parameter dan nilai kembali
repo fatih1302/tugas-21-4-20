@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+int penjumlahan (int a, int b){
+	return a + b;
+}
+int main (){
+	cout << penjumlahan(5, 6);
+}
