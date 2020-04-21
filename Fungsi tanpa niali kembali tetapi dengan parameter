@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+void pembagian (float a, float b){
+	cout << (a / b);
+}
+int main (){
+	pembagian (15, 4);
+}
