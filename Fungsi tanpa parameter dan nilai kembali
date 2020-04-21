@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+void data () {	
+	cout<<"Fungsi tampa parameter dan nilai kembali";
+}
+int main () {
+	data ();
+}
