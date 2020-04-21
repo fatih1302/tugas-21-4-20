@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+int luas_persegi (){
+	int s = 10;
+	return s * s;
+}
+int main (){
+	cout << luas_persegi ();
+}
